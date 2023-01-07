@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'tisa';
+  src: url(./assets/fonts/tisa/TisaSansProRegular.ttf) format('opentype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+html {
+  background: radial-gradient(circle at top left, #87143d, #247ba0);
+  min-height: 100vh;
+}
+
+.App {
+  text-align: center;
+  min-height: calc(100vh - 5rem);
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    z-index: 2;
+    font-size: .75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+
+    a{
+      padding: .5rem;
+      text-decoration: none;
+      color: #f2efe9;
+      transition: all .2s ease-out;
+
+      &.active {
+        color: #db991d;
+      }
+
+      &:hover {
+        color: #db991d;
+      }
+    }
+  }
+  
+  h1 {
+    position: relative;
+    z-index: 2;
+    margin: 2rem 0 0;
+    font-size: 1rem;
+  }
+
+  animation: .4s ease-in .1s both show;
+
+  @keyframes show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+  }
+}
+
+.team, .group, .matches, .squadban, .notfound {
+  h2 {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 2.85rem;
+    font-weight: 800;
+    line-height: 0.75;
+    
+    &:nth-of-type(2) {
+      margin: 2rem 0 0;
+    }
+  }
+
+  h3 {
+    margin: 0rem;
+    padding: 1rem .75rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: lightgray;
+    background-color: rgba(0, 0, 0, .2);
+    border-bottom: 1px #247ba0 solid;
+    cursor: pointer;
+    transition: all .25s ease-out;
+
+    &:hover {
+        color: #fff;
+        background-color: #247ba0;
+    }
+  }
+
+  margin: 2.8rem 0 0;
+  animation: .4s ease-in .1s both show;
+
+  @keyframes show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+  }
+}
+
+.App-footer {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto 0;
+	padding: 0;
+	width: 100%;
+	height: 3rem;
+	color: #fff;
+
+	font-weight: 500;
+	font-size: 0.8rem;
+
+  div {
+    width: 100%;
+    max-width: 1080px;
+
+    p {
+      text-align: center;
+      margin: 0;
+    }
+  }
+}

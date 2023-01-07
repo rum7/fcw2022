@@ -1,0 +1,162 @@
+[
+	{
+		"name": "argentina",
+		"acro": "arg",
+		"groupe": "c"
+	},
+	{
+		"name": "australia",
+		"acro": "aus",
+		"groupe": "d"
+	},
+	{
+		"name": "belgium",
+		"acro": "bel",
+		"groupe": "f"
+	},
+	{
+		"name": "brazil",
+		"acro": "bra",
+		"groupe": "g"
+	},
+	{
+		"name": "cameroon",
+		"acro": "cmr",
+		"groupe": "g"
+	},
+	{
+		"name": "canada",
+		"acro": "can",
+		"groupe": "f"
+	},
+	{
+		"name": "costa-rica",
+		"acro": "crc",
+		"groupe": "e"
+	},
+	{
+		"name": "croatia",
+		"acro": "cro",
+		"groupe": "f"
+	},
+	{
+		"name": "denmark",
+		"acro": "den",
+		"groupe": "d"
+	},
+	{
+		"name": "ecuador",
+		"acro": "ecu",
+		"groupe": "a"
+	},
+	{
+		"name": "england",
+		"acro": "eng",
+		"groupe": "b"
+	},
+	{
+		"name": "france",
+		"acro": "fra",
+		"groupe": "d"
+	},
+	{
+		"name": "germany",
+		"acro": "ger",
+		"groupe": "e"
+	},
+	{
+		"name": "ghana",
+		"acro": "gha",
+		"groupe": "h"
+	},
+	{
+		"name": "iran",
+		"acro": "irn",
+		"groupe": "b"
+	},
+	{
+		"name": "japan",
+		"acro": "jpn",
+		"groupe": "e"
+	},
+	{
+		"name": "korea-republic",
+		"acro": "kor",
+		"groupe": "h"
+	},
+	{
+		"name": "mexico",
+		"acro": "mex",
+		"groupe": "c"
+	},
+	{
+		"name": "morocco",
+		"acro": "mar",
+		"groupe": "f"
+	},
+	{
+		"name": "netherlands",
+		"acro": "ned",
+		"groupe": "a"
+	},
+	{
+		"name": "poland",
+		"acro": "pol",
+		"groupe": "c"
+	},
+	{
+		"name": "portugal",
+		"acro": "por",
+		"groupe": "h"
+	},
+	{
+		"name": "qatar",
+		"acro": "qat",
+		"groupe": "a"
+	},
+	{
+		"name": "saudi-arabia",
+		"acro": "ksa",
+		"groupe": "c"
+	},
+	{
+		"name": "senegal",
+		"acro": "sen",
+		"groupe": "a"
+	},
+	{
+		"name": "serbia",
+		"acro": "srb",
+		"groupe": "g"
+	},
+	{
+		"name": "spain",
+		"acro": "esp",
+		"groupe": "e"
+	},
+	{
+		"name": "switzerland",
+		"acro": "sui",
+		"groupe": "g"
+	},
+	{
+		"name": "tunisia",
+		"acro": "tun",
+		"groupe": "d"
+	},
+	{
+		"name": "united-states",
+		"acro": "usa",
+		"groupe": "b"
+	},
+	{
+		"name": "uruguay",
+		"acro": "uru",
+		"groupe": "h"
+	},
+	{
+		"name": "wales",
+		"acro": "wal",
+		"groupe": "b"
+	}
+]

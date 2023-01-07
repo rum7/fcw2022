@@ -1,0 +1,346 @@
+{
+	"group a" : [
+		{
+			"group": "group a",
+			"rank": "1",
+			"team": "netherlands",
+			"acro": "ned",
+			"win": "2",
+			"draw": "1",
+			"lose": "0",
+			"goaldifference": "4",
+			"points": "7"
+		}, {
+			"group": "group a",
+			"rank": "2",
+			"team": "senegal",
+			"acro": "sen",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "1",
+			"points": "6"
+		}, {
+			"group": "group a",
+			"rank": "3",
+			"team": "ecuador",
+			"acro": "ecu",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "1",
+			"points": "4"
+		}, {
+			"group": "group a",
+			"rank": "4",
+			"team": "qatar",
+			"acro": "qat",
+			"win": "0",
+			"draw": "0",
+			"lose": "3",
+			"goaldifference": "-6",
+			"points": "0"
+		}
+	],
+	"group b" : [
+		{
+			"group": "group b",
+			"rank": "1",
+			"team": "england",
+			"acro": "eng",
+			"win": "2",
+			"draw": "1",
+			"lose": "0",
+			"goaldifference": "7",
+			"points": "7"
+		}, {
+			"group": "group b",
+			"rank": "2",
+			"team": "united-states",
+			"acro": "usa",
+			"win": "1",
+			"draw": "2",
+			"lose": "0",
+			"goaldifference": "1",
+			"points": "5"
+		}, {
+			"group": "group b",
+			"rank": "3",
+			"team": "iran",
+			"acro": "irn",
+			"win": "1",
+			"draw": "0",
+			"lose": "2",
+			"goaldifference": "-3",
+			"points": "3"
+		}, {
+			"group": "group b",
+			"rank": "4",
+			"team": "wales",
+			"acro": "wal",
+			"win": "0",
+			"draw": "1",
+			"lose": "2",
+			"goaldifference": "-5",
+			"points": "1"
+		}
+	],
+	"group c" : [
+		{
+			"group": "group c",
+			"rank": "1",
+			"team": "argentina",
+			"acro": "arg",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "3",
+			"points": "6"
+		}, {
+			"group": "group c",
+			"rank": "2",
+			"team": "poland",
+			"acro": "pol",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "0",
+			"points": "4"
+		}, {
+			"group": "group c",
+			"rank": "3",
+			"team": "mexico",
+			"acro": "mex",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "-1",
+			"points": "4"
+		}, {
+			"group": "group c",
+			"rank": "4",
+			"team": "saudi-arabia",
+			"acro": "ksa",
+			"win": "1",
+			"draw": "0",
+			"lose": "2",
+			"goaldifference": "-2",
+			"points": "3"
+		}
+	],
+	"group d" : [
+		{
+			"group": "group d",
+			"rank": "1",
+			"team": "france",
+			"acro": "fra",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "3",
+			"points": "6"
+		}, {
+			"group": "group d",
+			"rank": "2",
+			"team": "australia",
+			"acro": "aus",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "-1",
+			"points": "6"
+		}, {
+			"group": "group d",
+			"rank": "3",
+			"team": "tunisia",
+			"acro": "tun",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "0",
+			"points": "4"
+		}, {
+			"group": "group d",
+			"rank": "4",
+			"team": "denmark",
+			"acro": "den",
+			"win": "0",
+			"draw": "1",
+			"lose": "2",
+			"goaldifference": "-2",
+			"points": "1"
+		}
+	],
+	"group e" : [
+		{
+			"group": "group e",
+			"rank": "1",
+			"team": "japan",
+			"acro": "jpn",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "1",
+			"points": "6"
+		}, {
+			"group": "group e",
+			"rank": "2",
+			"team": "spain",
+			"acro": "esp",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "6",
+			"points": "4"
+		}, {
+			"group": "group e",
+			"rank": "3",
+			"team": "germany",
+			"acro": "ger",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "1",
+			"points": "4"
+		}, {
+			"group": "group e",
+			"rank": "4",
+			"team": "costa-rica",
+			"acro": "crc",
+			"win": "1",
+			"draw": "0",
+			"lose": "2",
+			"goaldifference": "-8",
+			"points": "3"
+		}
+	],
+	"group f" : [
+		{
+			"group": "group f",
+			"rank": "1",
+			"team": "morocco",
+			"acro": "mar",
+			"win": "2",
+			"draw": "1",
+			"lose": "0",
+			"goaldifference": "3",
+			"points": "7"
+		}, {
+			"group": "group f",
+			"rank": "2",
+			"team": "croatia",
+			"acro": "cro",
+			"win": "1",
+			"draw": "2",
+			"lose": "0",
+			"goaldifference": "3",
+			"points": "5"
+		}, {
+			"group": "group f",
+			"rank": "3",
+			"team": "belgium",
+			"acro": "bel",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "-1",
+			"points": "4"
+		}, {
+			"group": "group f",
+			"rank": "4",
+			"team": "canada",
+			"acro": "can",
+			"win": "0",
+			"draw": "0",
+			"lose": "3",
+			"goaldifference": "-5",
+			"points": "0"
+		}
+	],
+	"group g" : [
+		{
+			"group": "group g",
+			"rank": "1",
+			"team": "brazil",
+			"acro": "bra",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "2",
+			"points": "6"
+		}, {
+			"group": "group g",
+			"rank": "2",
+			"team": "switzerland",
+			"acro": "sui",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "1",
+			"points": "6"
+		}, {
+			"group": "group g",
+			"rank": "3",
+			"team": "cameroon",
+			"acro": "cmr",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "0",
+			"points": "4"
+		}, {
+			"group": "group g",
+			"rank": "4",
+			"team": "serbia",
+			"acro": "srb",
+			"win": "0",
+			"draw": "1",
+			"lose": "2",
+			"goaldifference": "-3",
+			"points": "1"
+		}
+	],
+	"group h" : [
+		{
+			"group": "group h",
+			"rank": "1",
+			"team": "portugal",
+			"acro": "por",
+			"win": "2",
+			"draw": "0",
+			"lose": "1",
+			"goaldifference": "2",
+			"points": "6"
+		}, {
+			"group": "group h",
+			"rank": "2",
+			"team": "korea-republic",
+			"acro": "kor",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "0",
+			"points": "4"
+		}, {
+			"group": "group h",
+			"rank": "3",
+			"team": "uruguay",
+			"acro": "uru",
+			"win": "1",
+			"draw": "1",
+			"lose": "1",
+			"goaldifference": "0",
+			"points": "4"
+		}, {
+			"group": "group h",
+			"rank": "4",
+			"team": "ghana",
+			"acro": "gha",
+			"win": "1",
+			"draw": "0",
+			"lose": "2",
+			"goaldifference": "-2",
+			"points": "3"
+		}
+	]
+}

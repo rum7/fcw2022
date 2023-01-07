@@ -1,0 +1,80 @@
+div.squadban {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: .75rem 0;
+  height: 2rem;
+  overflow: hidden;
+
+  &::before, &::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 20rem;
+    background: linear-gradient(90deg, rgba(0,57,115,0) 0%, rgba(255,255,255,1) 40%, rgba(255,255,255,1) 60%, rgba(0,57,115,0) 100%); 
+  }
+  
+  &::before {top: 0;}
+
+  &::after {bottom: 0;}
+
+  &_data {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0 .5rem;
+    height: 2rem;
+  }
+
+  img {
+    position: relative;
+    height: 25px;
+    border-radius: 0.15rem;
+    box-shadow:
+      0px 0.7px 2.2px rgba(0, 0, 0, 0.02),
+      0px 1.7px 5.3px rgba(0, 0, 0, 0.028),
+      0px 3.1px 10px rgba(0, 0, 0, 0.035),
+      0px 5.6px 17.9px rgba(0, 0, 0, 0.042),
+      0px 10.4px 33.4px rgba(0, 0, 0, 0.05),
+      0px 25px 80px rgba(0, 0, 0, 0.07);
+
+    &.team--in {
+      animation: .3s ease-out 0s both showFlag;
+      @keyframes showFlag {
+        0% {top: -2.5rem;}
+        100% {top: 0rem;}
+      }
+    }
+  
+    &.team--out {
+      animation: .3s ease-out 0s both hideFlag;
+      @keyframes hideFlag {
+        0% {top: 0rem;}
+        100% {top: 2.5rem;}
+      }
+    }
+  }
+
+  h2 {
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    position: relative;
+
+    &.team--in {
+      animation: .3s ease-out 0s both showTN;
+      @keyframes showTN {
+        0% {top: -2.5rem;}
+        100% {top: 0rem;}
+      }
+    }
+  
+    &.team--out {
+      animation: .3s ease-out 0s both hideTN;
+      @keyframes hideTN {
+        0% {top: 0rem;}
+        100% {top: 2.5rem;}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.cardPlayer__container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 680px;
+    margin: auto;
+    overflow: hidden;
+    transition-property: height, padding;
+    transition-duration: .3s;
+    transition-timing-function: ease-out;
+}

@@ -1,0 +1,5883 @@
+{
+"ecuador": [
+	{
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Hernán",
+        "lastname": "Galíndez",
+        "team": "ecuador"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Félix",
+        "lastname": "Torres",
+        "team": "ecuador"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Piero",
+        "lastname": "Hincapié",
+        "team": "ecuador"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Robert",
+        "lastname": "Arboleda",
+        "team": "ecuador"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "José",
+        "lastname": "Cifuentes",
+        "team": "ecuador"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "William",
+        "lastname": "Pacho",
+        "team": "ecuador"
+    },
+    {
+        "number": "7",
+        "position": "defender",
+        "firstname": "Pervis",
+        "lastname": "Estupiñán",
+        "team": "ecuador"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Carlos",
+        "lastname": "Gruezo",
+        "team": "ecuador"
+    },
+    {
+        "number": "9",
+        "position": "midfielder",
+        "firstname": "Ayrton",
+        "lastname": "Preciado",
+        "team": "ecuador"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Romario",
+        "lastname": "Ibarra",
+        "team": "ecuador"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Michael",
+        "lastname": "Estrada",
+        "team": "ecuador"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Moisés",
+        "lastname": "Ramírez",
+        "team": "ecuador"
+    },
+    {
+        "number": "13",
+        "position": "forward",
+        "firstname": "Enner",
+        "lastname": "Valencia",
+        "team": "ecuador"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Xavier",
+        "lastname": "Arreaga",
+        "team": "ecuador"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Ángel",
+        "lastname": "Mena",
+        "team": "ecuador"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Jeremy",
+        "lastname": "Sarmiento",
+        "team": "ecuador"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Ángelo",
+        "lastname": "Preciado",
+        "team": "ecuador"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Diego",
+        "lastname": "Palacios",
+        "team": "ecuador"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Gonzalo",
+        "lastname": "Plata",
+        "team": "ecuador"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Sebas",
+        "lastname": "Méndez",
+        "team": "ecuador"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Alan",
+        "lastname": "Franco",
+        "team": "ecuador"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Alexander",
+        "lastname": "Domínguez",
+        "team": "ecuador"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Moisés",
+        "lastname": "Caicedo",
+        "team": "ecuador"
+    },
+    {
+        "number": "24",
+        "position": "forward",
+        "firstname": "Djorkaeff",
+        "lastname": "Reasco",
+        "team": "ecuador"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Jackson",
+        "lastname": "Porozo",
+        "team": "ecuador"
+    },
+    {
+        "number": "26",
+        "position": "forward",
+        "firstname": "Kevin",
+        "lastname": "Rodríguez",
+        "team": "ecuador"
+    }
+],
+"netherlands": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Remko",
+        "lastname": "Pasveer",
+        "team": "netherlands"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Jurriën",
+        "lastname": "Timber",
+        "team": "netherlands"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Matthijs",
+        "lastname": "de Ligt",
+        "team": "netherlands"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Virgil",
+        "lastname": "van Dijk",
+        "team": "netherlands"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Nathan",
+        "lastname": "Aké",
+        "team": "netherlands"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Stefan",
+        "lastname": "de Vrij",
+        "team": "netherlands"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Steven",
+        "lastname": "Bergwijn",
+        "team": "netherlands"
+    },
+    {
+        "number": "8",
+        "position": "forward",
+        "firstname": "Cody",
+        "lastname": "Gakpo",
+        "team": "netherlands"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Luuk",
+        "lastname": "de Jong",
+        "team": "netherlands"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Memphis",
+        "lastname": "Depay",
+        "team": "netherlands"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Steven",
+        "lastname": "Berghuis",
+        "team": "netherlands"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Noa",
+        "lastname": "Lang",
+        "team": "netherlands"
+    },
+    {
+        "number": "13",
+        "position": "goalkeeper",
+        "firstname": "Justin",
+        "lastname": "Bijlow",
+        "team": "netherlands"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Davy",
+        "lastname": "Klaassen",
+        "team": "netherlands"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Marten",
+        "lastname": "de Roon",
+        "team": "netherlands"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Tyrell",
+        "lastname": "Malacia",
+        "team": "netherlands"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Daley",
+        "lastname": "Blind",
+        "team": "netherlands"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Vincent",
+        "lastname": "Janssen",
+        "team": "netherlands"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Wout",
+        "lastname": "Weghorst",
+        "team": "netherlands"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Teun",
+        "lastname": "Koopmeiners",
+        "team": "netherlands"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Frenkie",
+        "lastname": "de Jong",
+        "team": "netherlands"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Denzel",
+        "lastname": "Dumfries",
+        "team": "netherlands"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Andries",
+        "lastname": "Noppert",
+        "team": "netherlands"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Kenneth",
+        "lastname": "Taylor",
+        "team": "netherlands"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Xavi",
+        "lastname": "Simons",
+        "team": "netherlands"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Jeremie",
+        "lastname": "Frimpong",
+        "team": "netherlands"
+    }
+],
+"qatar": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Saad",
+        "lastname": "Al-Sheeb",
+        "team": "qatar"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Ró-Ró",
+        "lastname": "-",
+        "team": "qatar"
+    },
+    {
+        "number": "3",
+        "position": "midfielder",
+        "firstname": "Abdelkarim",
+        "lastname": "Hassan",
+        "team": "qatar"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Mohammed",
+        "lastname": "Waad",
+        "team": "qatar"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Tarek",
+        "lastname": "Salman",
+        "team": "qatar"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Abdulaziz",
+        "lastname": "Hatem",
+        "team": "qatar"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Ahmed",
+        "lastname": "Alaaeldin",
+        "team": "qatar"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Ali",
+        "lastname": "Assadalla",
+        "team": "qatar"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Mohammed",
+        "lastname": "Muntari",
+        "team": "qatar"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Hassan",
+        "lastname": "Al-Haydos",
+        "team": "qatar"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Akram",
+        "lastname": "Afif",
+        "team": "qatar"
+    },
+    {
+        "number": "12",
+        "position": "midfielder",
+        "firstname": "Karim",
+        "lastname": "Boudiaf",
+        "team": "qatar"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Musab",
+        "lastname": "Kheder",
+        "team": "qatar"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Homam",
+        "lastname": "Ahmed",
+        "team": "qatar"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Bassam",
+        "lastname": "Al-Rawi",
+        "team": "qatar"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Boualem",
+        "lastname": "Khoukhi",
+        "team": "qatar"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Ismaeel",
+        "lastname": "Mohammad",
+        "team": "qatar"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Khalid",
+        "lastname": "Muneer",
+        "team": "qatar"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Almoez",
+        "lastname": "Ali",
+        "team": "qatar"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Salem",
+        "lastname": "Al-Hajri",
+        "team": "qatar"
+    },
+    {
+        "number": "21",
+        "position": "goalkeeper",
+        "firstname": "Yousef",
+        "lastname": "Hassan",
+        "team": "qatar"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Meshaal",
+        "lastname": "Barsham",
+        "team": "qatar"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Assim",
+        "lastname": "Madibo",
+        "team": "qatar"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Naif",
+        "lastname": "Al-Hadhrami",
+        "team": "qatar"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Jassem",
+        "lastname": "Gaber",
+        "team": "qatar"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Mostafa",
+        "lastname": "Meshaal",
+        "team": "qatar"
+    }
+],
+"senegal": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Seny",
+        "lastname": "Dieng",
+        "team": "senegal"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Formose",
+        "lastname": "Mendy",
+        "team": "senegal"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Kalidou",
+        "lastname": "Koulibaly",
+        "team": "senegal"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Pape",
+        "lastname": "Abou",
+        "team": "senegal"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Idrissa",
+        "lastname": "Gueye",
+        "team": "senegal"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Nampalys",
+        "lastname": "Mendy",
+        "team": "senegal"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Nicolas",
+        "lastname": "Jackson",
+        "team": "senegal"
+    },
+    {
+        "number": "8",
+        "position": "defender",
+        "firstname": "Cheikhou",
+        "lastname": "Kouyaté",
+        "team": "senegal"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Boulaye",
+        "lastname": "Dia",
+        "team": "senegal"
+    },
+    {
+        "number": "10",
+        "position": "defender",
+        "firstname": "Moussa",
+        "lastname": "N'Diaye",
+        "team": "senegal"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Pathé",
+        "lastname": "Ciss",
+        "team": "senegal"
+    },
+    {
+        "number": "12",
+        "position": "defender",
+        "firstname": "Fodé",
+        "lastname": "Ballo-Touré",
+        "team": "senegal"
+    },
+    {
+        "number": "13",
+        "position": "forward",
+        "firstname": "Iliman",
+        "lastname": "Ndiaye",
+        "team": "senegal"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Ismail",
+        "lastname": "Jakobs",
+        "team": "senegal"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Krépin",
+        "lastname": "Diatta",
+        "team": "senegal"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Édouard",
+        "lastname": "Mendy",
+        "team": "senegal"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Pape",
+        "lastname": "Matar",
+        "team": "senegal"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Ismaïla",
+        "lastname": "Sarr",
+        "team": "senegal"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Famara",
+        "lastname": "Diédhiou",
+        "team": "senegal"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Bamba",
+        "lastname": "Dieng",
+        "team": "senegal"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Youssouf",
+        "lastname": "Sabaly",
+        "team": "senegal"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Abdou",
+        "lastname": "Diallo",
+        "team": "senegal"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Alfred",
+        "lastname": "Gomis",
+        "team": "senegal"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Moustapha",
+        "lastname": "Name",
+        "team": "senegal"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Mamadou",
+        "lastname": "Loum",
+        "team": "senegal"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Pape",
+        "lastname": "Gueye",
+        "team": "senegal"
+    }
+],
+"england": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Jordan",
+        "lastname": "Pickford",
+        "team": "england"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Kyle",
+        "lastname": "Walker",
+        "team": "england"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Luke",
+        "lastname": "Shaw",
+        "team": "england"
+    },
+    {
+        "number": "4",
+        "position": "midfielder",
+        "firstname": "Declan",
+        "lastname": "Rice",
+        "team": "england"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "John",
+        "lastname": "Stones",
+        "team": "england"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Harry",
+        "lastname": "Maguire",
+        "team": "england"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Jack",
+        "lastname": "Grealish",
+        "team": "england"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Jordan",
+        "lastname": "Henderson",
+        "team": "england"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Harry",
+        "lastname": "Kane",
+        "team": "england"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Raheem",
+        "lastname": "Sterling",
+        "team": "england"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Marcus",
+        "lastname": "Rashford",
+        "team": "england"
+    },
+    {
+        "number": "12",
+        "position": "defender",
+        "firstname": "Kieran",
+        "lastname": "Trippier",
+        "team": "england"
+    },
+    {
+        "number": "13",
+        "position": "goalkeeper",
+        "firstname": "Nick",
+        "lastname": "Pope",
+        "team": "england"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Kalvin",
+        "lastname": "Phillips",
+        "team": "england"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Eric",
+        "lastname": "Dier",
+        "team": "england"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Conor",
+        "lastname": "Coady",
+        "team": "england"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Bukayo",
+        "lastname": "Saka",
+        "team": "england"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Trent",
+        "lastname": "Alexander-Arnold",
+        "team": "england"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Mason",
+        "lastname": "Mount",
+        "team": "england"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Phil",
+        "lastname": "Foden",
+        "team": "england"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Ben",
+        "lastname": "White",
+        "team": "england"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Jude",
+        "lastname": "Bellingham",
+        "team": "england"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Aaron",
+        "lastname": "Ramsdale",
+        "team": "england"
+    },
+    {
+        "number": "24",
+        "position": "forward",
+        "firstname": "Callum",
+        "lastname": "Wilson",
+        "team": "england"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "James",
+        "lastname": "Maddison",
+        "team": "england"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Conor",
+        "lastname": "Gallagher",
+        "team": "england"
+    }
+],
+"iran": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Alireza",
+        "lastname": "Beiranvand",
+        "team": "iran"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Sadegh",
+        "lastname": "Moharrami",
+        "team": "iran"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Ehsan",
+        "lastname": "Hajsafi",
+        "team": "iran"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Shojae",
+        "lastname": "Khalilzadeh",
+        "team": "iran"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Milad",
+        "lastname": "Mohammadi",
+        "team": "iran"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Saeid",
+        "lastname": "Ezatolahi",
+        "team": "iran"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Alireza",
+        "lastname": "Jahanbakhsh",
+        "team": "iran"
+    },
+    {
+        "number": "8",
+        "position": "defender",
+        "firstname": "Morteza",
+        "lastname": "Pouraliganji",
+        "team": "iran"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Mehdi",
+        "lastname": "Taremi",
+        "team": "iran"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Karim",
+        "lastname": "Ansarifard",
+        "team": "iran"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Vahid",
+        "lastname": "Amiri",
+        "team": "iran"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Payam",
+        "lastname": "Niazmand",
+        "team": "iran"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Hossein",
+        "lastname": "Kanaanizadegan",
+        "team": "iran"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Saman",
+        "lastname": "Ghoddos",
+        "team": "iran"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Rouzbeh",
+        "lastname": "Cheshmi",
+        "team": "iran"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Mehdi",
+        "lastname": "Torabi",
+        "team": "iran"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Ali",
+        "lastname": "Gholizadeh",
+        "team": "iran"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Ali",
+        "lastname": "Karimi",
+        "team": "iran"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Majid",
+        "lastname": "Hosseini",
+        "team": "iran"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Sardar",
+        "lastname": "Azmoun",
+        "team": "iran"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Ahmad",
+        "lastname": "Nourollahi",
+        "team": "iran"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Amir",
+        "lastname": "Abedzadeh",
+        "team": "iran"
+    },
+    {
+        "number": "23",
+        "position": "defender",
+        "firstname": "Ramin",
+        "lastname": "Rezaeian",
+        "team": "iran"
+    },
+    {
+        "number": "24",
+        "position": "goalkeeper",
+        "firstname": "Hossein",
+        "lastname": "Hosseini",
+        "team": "iran"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Abolfazl",
+        "lastname": "Jalali",
+        "team": "iran"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Conor",
+        "lastname": "Gallagher",
+        "team": "iran"
+    }
+],
+"united-states": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Matt",
+        "lastname": "Turner",
+        "team": "united-states"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Sergiño",
+        "lastname": "Dest",
+        "team": "united-states"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Walker",
+        "lastname": "Zimmerman",
+        "team": "united-states"
+    },
+    {
+        "number": "4",
+        "position": "midfielder",
+        "firstname": "Tyler",
+        "lastname": "Adams",
+        "team": "united-states"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Antonee",
+        "lastname": "Robinson",
+        "team": "united-states"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Yunus",
+        "lastname": "Musah",
+        "team": "united-states"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Giovanni",
+        "lastname": "Reyna",
+        "team": "united-states"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Weston",
+        "lastname": "McKennie",
+        "team": "united-states"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Jesús",
+        "lastname": "Ferreira",
+        "team": "united-states"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Christian",
+        "lastname": "Pulisic",
+        "team": "united-states"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Brenden",
+        "lastname": "Aaronson",
+        "team": "united-states"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Ethan",
+        "lastname": "Horvath",
+        "team": "united-states"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Tim",
+        "lastname": "Ream",
+        "team": "united-states"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Luca",
+        "lastname": "de la Torre",
+        "team": "united-states"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Aaron",
+        "lastname": "Long",
+        "team": "united-states"
+    },
+    {
+        "number": "16",
+        "position": "forward",
+        "firstname": "Jordan",
+        "lastname": "Morris",
+        "team": "united-states"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Cristian",
+        "lastname": "Roldan",
+        "team": "united-states"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Shaq",
+        "lastname": "Moore",
+        "team": "united-states"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Haji",
+        "lastname": "Wright",
+        "team": "united-states"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Cameron",
+        "lastname": "Carter-Vickers",
+        "team": "united-states"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Timothy",
+        "lastname": "Weah",
+        "team": "united-states"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "DeAndre",
+        "lastname": "Yedlin",
+        "team": "united-states"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Kellyn",
+        "lastname": "Acosta",
+        "team": "united-states"
+    },
+    {
+        "number": "24",
+        "position": "forward",
+        "firstname": "Josh",
+        "lastname": "Sargent",
+        "team": "united-states"
+    },
+    {
+        "number": "25",
+        "position": "goalkeeper",
+        "firstname": "Sean",
+        "lastname": "Johnson",
+        "team": "united-states"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Joe",
+        "lastname": "Scally",
+        "team": "united-states"
+    }
+],
+"wales": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Wayne",
+        "lastname": "Hennessey",
+        "team": "wales"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Chris",
+        "lastname": "Gunter",
+        "team": "wales"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Neco",
+        "lastname": "Williams",
+        "team": "wales"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Ben",
+        "lastname": "Davies",
+        "team": "wales"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Chris",
+        "lastname": "Mepham",
+        "team": "wales"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Joe",
+        "lastname": "Rodon",
+        "team": "wales"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Joe",
+        "lastname": "Allen",
+        "team": "wales"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Harry",
+        "lastname": "Wilson",
+        "team": "wales"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Brennan",
+        "lastname": "Johnson",
+        "team": "wales"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Aaron",
+        "lastname": "Ramsey",
+        "team": "wales"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Gareth",
+        "lastname": "Bale",
+        "team": "wales"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Danny",
+        "lastname": "Ward",
+        "team": "wales"
+    },
+    {
+        "number": "13",
+        "position": "forward",
+        "firstname": "Kieffer",
+        "lastname": "Moore",
+        "team": "wales"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Connor",
+        "lastname": "Roberts",
+        "team": "wales"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Ethan",
+        "lastname": "Ampadu",
+        "team": "wales"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Joe",
+        "lastname": "Morrell",
+        "team": "wales"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Tom",
+        "lastname": "Lockyer",
+        "team": "wales"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Jonny",
+        "lastname": "Williams",
+        "team": "wales"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Mark",
+        "lastname": "Harris",
+        "team": "wales"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Daniel",
+        "lastname": "James",
+        "team": "wales"
+    },
+    {
+        "number": "21",
+        "position": "goalkeeper",
+        "firstname": "Adam",
+        "lastname": "Davies",
+        "team": "wales"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Sorba",
+        "lastname": "Thomas",
+        "team": "wales"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Dylan",
+        "lastname": "Levitt",
+        "team": "wales"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Ben",
+        "lastname": "Cabango",
+        "team": "wales"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Rubin",
+        "lastname": "Colwill",
+        "team": "wales"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Matthew",
+        "lastname": "Smith",
+        "team": "wales"
+    }
+],
+"argentina": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Franco",
+        "lastname": "Armani",
+        "team": "argentina"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Juan",
+        "lastname": "Foyth",
+        "team": "argentina"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Nicolás",
+        "lastname": "Tagliafico",
+        "team": "argentina"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Gonzalo",
+        "lastname": "Montiel",
+        "team": "argentina"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Leandro",
+        "lastname": "Paredes",
+        "team": "argentina"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Germán",
+        "lastname": "Pezzella",
+        "team": "argentina"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Rodrigo",
+        "lastname": "De Paul",
+        "team": "argentina"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Marcos",
+        "lastname": "Acuña",
+        "team": "argentina"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Julián",
+        "lastname": "Álvarez",
+        "team": "argentina"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Lionel",
+        "lastname": "Messi",
+        "team": "argentina"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Ángel",
+        "lastname": "Di María",
+        "team": "argentina"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Gerónimo",
+        "lastname": "Rulli",
+        "team": "argentina"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Cristian",
+        "lastname": "Romero",
+        "team": "argentina"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Exequiel",
+        "lastname": "Palacios",
+        "team": "argentina"
+    },
+    {
+        "number": "15",
+        "position": "forward",
+        "firstname": "Ángel",
+        "lastname": "Correa",
+        "team": "argentina"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Thiago",
+        "lastname": "Almada",
+        "team": "argentina"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Papu",
+        "lastname": "Gómez",
+        "team": "argentina"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Guido",
+        "lastname": "Rodríguez",
+        "team": "argentina"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Nicolás",
+        "lastname": "Otamendi",
+        "team": "argentina"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Alexis",
+        "lastname": "Mac Allister",
+        "team": "argentina"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Paulo",
+        "lastname": "Dybala",
+        "team": "argentina"
+    },
+    {
+        "number": "22",
+        "position": "forward",
+        "firstname": "Lautaro",
+        "lastname": "Martínez",
+        "team": "argentina"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Emiliano",
+        "lastname": "Martínez",
+        "team": "argentina"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Enzo",
+        "lastname": "Fernández",
+        "team": "argentina"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Lisandro",
+        "lastname": "Martínez",
+        "team": "argentina"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Nahuel",
+        "lastname": "Molina",
+        "team": "argentina"
+    }
+],
+"mexico": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Alfredo",
+        "lastname": "Talavera",
+        "team": "mexico"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Néstor",
+        "lastname": "Araujo",
+        "team": "mexico"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "César",
+        "lastname": "Montes",
+        "team": "mexico"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Edson",
+        "lastname": "Álvarez",
+        "team": "mexico"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Johan",
+        "lastname": "Vásquez",
+        "team": "mexico"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Gerardo",
+        "lastname": "Arteaga",
+        "team": "mexico"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Luis",
+        "lastname": "Romo",
+        "team": "mexico"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Carlos",
+        "lastname": "Rodríguez",
+        "team": "mexico"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Raúl",
+        "lastname": "Jiménez",
+        "team": "mexico"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Alexis",
+        "lastname": "Vega",
+        "team": "mexico"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Rogelio",
+        "lastname": "Funes Mori",
+        "team": "mexico"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Rodolfo",
+        "lastname": "Cota",
+        "team": "mexico"
+    },
+    {
+        "number": "13",
+        "position": "goalkeeper",
+        "firstname": "Guillermo",
+        "lastname": "Ochoa",
+        "team": "mexico"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Érick",
+        "lastname": "Gutiérrez",
+        "team": "mexico"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Héctor",
+        "lastname": "Moreno",
+        "team": "mexico"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Héctor",
+        "lastname": "Herrera",
+        "team": "mexico"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Orbelín",
+        "lastname": "Pineda",
+        "team": "mexico"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Andrés",
+        "lastname": "Guardado",
+        "team": "mexico"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Jorge",
+        "lastname": "Sánchez",
+        "team": "mexico"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Henry",
+        "lastname": "Martín",
+        "team": "mexico"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Uriel",
+        "lastname": "Antuna",
+        "team": "mexico"
+    },
+    {
+        "number": "22",
+        "position": "forward",
+        "firstname": "Hirving",
+        "lastname": "Lozano",
+        "team": "mexico"
+    },
+    {
+        "number": "23",
+        "position": "defender",
+        "firstname": "Jesús",
+        "lastname": "Gallardo",
+        "team": "mexico"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Luis",
+        "lastname": "Chávez",
+        "team": "mexico"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Roberto",
+        "lastname": "Alvarado",
+        "team": "mexico"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Kevin",
+        "lastname": "Álvarez",
+        "team": "mexico"
+    }
+],
+"poland": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Wojciech",
+        "lastname": "Szczęsny",
+        "team": "poland"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Matty",
+        "lastname": "Cash",
+        "team": "poland"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Artur",
+        "lastname": "Jędrzejczyk",
+        "team": "poland"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Mateusz",
+        "lastname": "Wieteska",
+        "team": "poland"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Jan",
+        "lastname": "Bednarek",
+        "team": "poland"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Krystian",
+        "lastname": "Bielik",
+        "team": "poland"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Arkadiusz",
+        "lastname": "Milik",
+        "team": "poland"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Damian",
+        "lastname": "Szymański",
+        "team": "poland"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Robert",
+        "lastname": "Lewandowski",
+        "team": "poland"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Grzegorz",
+        "lastname": "Krychowiak",
+        "team": "poland"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Kamil",
+        "lastname": "Grosicki",
+        "team": "poland"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Łukasz",
+        "lastname": "Skorupski",
+        "team": "poland"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Jakub",
+        "lastname": "Kamiński",
+        "team": "poland"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Jakub",
+        "lastname": "Kiwior",
+        "team": "poland"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Kamil",
+        "lastname": "Glik",
+        "team": "poland"
+    },
+    {
+        "number": "16",
+        "position": "forward",
+        "firstname": "Karol",
+        "lastname": "Świderski",
+        "team": "poland"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Szymon",
+        "lastname": "Żurkowski",
+        "team": "poland"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Bartosz",
+        "lastname": "Bereszyński",
+        "team": "poland"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Sebastian",
+        "lastname": "Szymański",
+        "team": "poland"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Piotr",
+        "lastname": "Zieliński",
+        "team": "poland"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Nicola",
+        "lastname": "Zalewski",
+        "team": "poland"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Kamil",
+        "lastname": "Grabara",
+        "team": "poland"
+    },
+    {
+        "number": "23",
+        "position": "forward",
+        "firstname": "Krzysztof",
+        "lastname": "Piątek",
+        "team": "poland"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Przemysław",
+        "lastname": "Frankowski",
+        "team": "poland"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Robert",
+        "lastname": "Gumny",
+        "team": "poland"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Michał",
+        "lastname": "Skóraś",
+        "team": "poland"
+    }
+],
+"saudi-arabia": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Mohammed",
+        "lastname": "Al-Rubaie",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Sultan",
+        "lastname": "Al-Ghannam",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Abdullah",
+        "lastname": "Madu",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Abdulelah",
+        "lastname": "Al-Amri",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Ali",
+        "lastname": "Al-Bulaihi",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Mohammed",
+        "lastname": "Al-Breik",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Salman",
+        "lastname": "Al-Faraj",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Abdulellah",
+        "lastname": "Al-Malki",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Firas",
+        "lastname": "Al-Buraikan",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Salem",
+        "lastname": "Al-Dawsari",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Saleh",
+        "lastname": "Al-Shehri",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "12",
+        "position": "defender",
+        "firstname": "Saud",
+        "lastname": "Abdulhamid",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Yasser",
+        "lastname": "Al-Shahrani",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Abdullah",
+        "lastname": "Otayf",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Ali",
+        "lastname": "Al-Hassan",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Sami",
+        "lastname": "Al-Najei",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Hassan",
+        "lastname": "Al-Tambakti",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Nawaf",
+        "lastname": "Al-Abed",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Hattan",
+        "lastname": "Bahebri",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Abdulrahman",
+        "lastname": "Al-Aboud",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "21",
+        "position": "goalkeeper",
+        "firstname": "Mohammed",
+        "lastname": "Al-Owais",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Nawaf",
+        "lastname": "Al-Aqidi",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Mohamed",
+        "lastname": "Kanno",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Nasser",
+        "lastname": "Al-Dawsari",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Haitham",
+        "lastname": "Asiri",
+        "team": "saudi-arabia"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Riyadh",
+        "lastname": "Sharahili",
+        "team": "saudi-arabia"
+    }
+],
+"australia": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Mathew",
+        "lastname": "Ryan",
+        "team": "australia"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Miloš",
+        "lastname": "Degenek",
+        "team": "australia"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Nathaniel",
+        "lastname": "Atkinson",
+        "team": "australia"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Kye",
+        "lastname": "Rowles",
+        "team": "australia"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Fran",
+        "lastname": "Karačić",
+        "team": "australia"
+    },
+    {
+        "number": "6",
+        "position": "forward",
+        "firstname": "Marco",
+        "lastname": "Tilio",
+        "team": "australia"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Mathew",
+        "lastname": "Leckie",
+        "team": "australia"
+    },
+    {
+        "number": "8",
+        "position": "defender",
+        "firstname": "Bailey",
+        "lastname": "Wright",
+        "team": "australia"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Jamie",
+        "lastname": "Maclaren",
+        "team": "australia"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Ajdin",
+        "lastname": "Hrustic",
+        "team": "australia"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Awer",
+        "lastname": "Mabil",
+        "team": "australia"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Andrew",
+        "lastname": "Redmayne",
+        "team": "australia"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Aaron",
+        "lastname": "Mooy",
+        "team": "australia"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Riley",
+        "lastname": "McGree",
+        "team": "australia"
+    },
+    {
+        "number": "15",
+        "position": "forward",
+        "firstname": "Mitchell",
+        "lastname": "Duke",
+        "team": "australia"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Aziz",
+        "lastname": "Behich",
+        "team": "australia"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Cameron",
+        "lastname": "Devlin",
+        "team": "australia"
+    },
+    {
+        "number": "18",
+        "position": "goalkeeper",
+        "firstname": "Danny",
+        "lastname": "Vukovic",
+        "team": "australia"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Harry",
+        "lastname": "Souttar",
+        "team": "australia"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Thomas",
+        "lastname": "Deng",
+        "team": "australia"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Garang",
+        "lastname": "Kuol",
+        "team": "australia"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Jackson",
+        "lastname": "Irvine",
+        "team": "australia"
+    },
+    {
+        "number": "23",
+        "position": "forward",
+        "firstname": "Craig",
+        "lastname": "Goodwin",
+        "team": "australia"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Joel",
+        "lastname": "King",
+        "team": "australia"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Jason",
+        "lastname": "Cummings",
+        "team": "australia"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Keanu",
+        "lastname": "Baccus",
+        "team": "australia"
+    }
+],
+"denmark": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Kasper",
+        "lastname": "Schmeichel",
+        "team": "denmark"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Joachim",
+        "lastname": "Andersen",
+        "team": "denmark"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Victor",
+        "lastname": "Nelsson",
+        "team": "denmark"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Simon",
+        "lastname": "Kjær",
+        "team": "denmark"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Joakim",
+        "lastname": "Mæhle",
+        "team": "denmark"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Andreas",
+        "lastname": "Christensen",
+        "team": "denmark"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Mathias",
+        "lastname": "Jensen",
+        "team": "denmark"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Thomas",
+        "lastname": "Delaney",
+        "team": "denmark"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Martin",
+        "lastname": "Braithwaite",
+        "team": "denmark"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Christian",
+        "lastname": "Eriksen",
+        "team": "denmark"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Andreas",
+        "lastname": "Skov Olsen",
+        "team": "denmark"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Kasper",
+        "lastname": "Dolberg",
+        "team": "denmark"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Rasmus",
+        "lastname": "Kristensen",
+        "team": "denmark"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Mikkel",
+        "lastname": "Damsgaard",
+        "team": "denmark"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Christian",
+        "lastname": "Nørgaard",
+        "team": "denmark"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Oliver",
+        "lastname": "Christensen",
+        "team": "denmark"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Jens",
+        "lastname": "Stryger Larsen",
+        "team": "denmark"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Daniel",
+        "lastname": "Wass",
+        "team": "denmark"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Jonas",
+        "lastname": "Wind",
+        "team": "denmark"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Yussuf",
+        "lastname": "Poulsen",
+        "team": "denmark"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Andreas",
+        "lastname": "Cornelius",
+        "team": "denmark"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Frederik",
+        "lastname": "Rønnow",
+        "team": "denmark"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Pierre-Emile",
+        "lastname": "Højbjerg",
+        "team": "denmark"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Robert",
+        "lastname": "Skov",
+        "team": "denmark"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Jesper",
+        "lastname": "Lindstrøm",
+        "team": "denmark"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Alexander",
+        "lastname": "Bah",
+        "team": "denmark"
+    }
+],
+"france": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Hugo",
+        "lastname": "Lloris",
+        "team": "france"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Benjamin",
+        "lastname": "Pavard",
+        "team": "france"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Axel",
+        "lastname": "Disasi",
+        "team": "france"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Raphaël",
+        "lastname": "Varane",
+        "team": "france"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Jules",
+        "lastname": "Koundé",
+        "team": "france"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Matteo",
+        "lastname": "Guendouzi",
+        "team": "france"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Antoine",
+        "lastname": "Griezmann",
+        "team": "france"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Aurélien",
+        "lastname": "Tchouaméni",
+        "team": "france"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Olivier",
+        "lastname": "Giroud",
+        "team": "france"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Kylian",
+        "lastname": "Mbappé",
+        "team": "france"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Ousmane",
+        "lastname": "Dembélé",
+        "team": "france"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Randal",
+        "lastname": "Kolo Muani",
+        "team": "france"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Youssouf",
+        "lastname": "Fofana",
+        "team": "france"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Adrien",
+        "lastname": "Rabiot",
+        "team": "france"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Jordan",
+        "lastname": "Veretout",
+        "team": "france"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Steve",
+        "lastname": "Mandanda",
+        "team": "france"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "William",
+        "lastname": "Saliba",
+        "team": "france"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Dayot",
+        "lastname": "Upamecano",
+        "team": "france"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Karim",
+        "lastname": "Benzema",
+        "team": "france"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Kingsley",
+        "lastname": "Coman",
+        "team": "france"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Lucas",
+        "lastname": "Hernandez",
+        "team": "france"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Théo",
+        "lastname": "Hernandez",
+        "team": "france"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Alphonse",
+        "lastname": "Areola",
+        "team": "france"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Ibrahima",
+        "lastname": "Konaté",
+        "team": "france"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Eduardo",
+        "lastname": "Camavinga",
+        "team": "france"
+    },
+    {
+        "number": "26",
+        "position": "forward",
+        "firstname": "Marcus",
+        "lastname": "Thuram",
+        "team": "france"
+    }
+],
+"tunisia": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Aymen",
+        "lastname": "Mathlouthi",
+        "team": "tunisia"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Bilel",
+        "lastname": "Ifa",
+        "team": "tunisia"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Montassar",
+        "lastname": "Talbi",
+        "team": "tunisia"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Yassine",
+        "lastname": "Meriah",
+        "team": "tunisia"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Nader",
+        "lastname": "Ghandri",
+        "team": "tunisia"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Dylan",
+        "lastname": "Bronn",
+        "team": "tunisia"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Youssef",
+        "lastname": "Msakni",
+        "team": "tunisia"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Hannibal",
+        "lastname": "Mejbri",
+        "team": "tunisia"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Issam",
+        "lastname": "Jebali",
+        "team": "tunisia"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Wahbi",
+        "lastname": "Khazri",
+        "team": "tunisia"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Taha",
+        "lastname": "Yassine Khenissi",
+        "team": "tunisia"
+    },
+    {
+        "number": "12",
+        "position": "defender",
+        "firstname": "Ali",
+        "lastname": "Maâloul",
+        "team": "tunisia"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Ferjani",
+        "lastname": "Sassi",
+        "team": "tunisia"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Aïssa",
+        "lastname": "Laïdouni",
+        "team": "tunisia"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Mohamed",
+        "lastname": "Ali Ben Romdhane",
+        "team": "tunisia"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Aymen",
+        "lastname": "Dahmen",
+        "team": "tunisia"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Ellyes",
+        "lastname": "Skhiri",
+        "team": "tunisia"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Ghailene",
+        "lastname": "Chaalali",
+        "team": "tunisia"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Seifeddine",
+        "lastname": "Jaziri",
+        "team": "tunisia"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Mohamed",
+        "lastname": "Dräger",
+        "team": "tunisia"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Wajdi",
+        "lastname": "Kechrida",
+        "team": "tunisia"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Bechir",
+        "lastname": "Ben Saïd",
+        "team": "tunisia"
+    },
+    {
+        "number": "23",
+        "position": "forward",
+        "firstname": "Naïm",
+        "lastname": "Sliti",
+        "team": "tunisia"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Ali",
+        "lastname": "Abdi",
+        "team": "tunisia"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Anis",
+        "lastname": "Ben Slimane",
+        "team": "tunisia"
+    },
+    {
+        "number": "26",
+        "position": "goalkeeper",
+        "firstname": "Mouez",
+        "lastname": "Hassen",
+        "team": "tunisia"
+    }
+],
+"costa-rica": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Keylor",
+        "lastname": "Navas",
+        "team": "costa-rica"
+    },
+    {
+        "number": "2",
+        "position": "midfielder",
+        "firstname": "Daniel",
+        "lastname": "Chacón",
+        "team": "costa-rica"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Juan",
+        "lastname": "Pablo Vargas",
+        "team": "costa-rica"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Keysher",
+        "lastname": "Fuller",
+        "team": "costa-rica"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Celso",
+        "lastname": "Borges",
+        "team": "costa-rica"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Óscar",
+        "lastname": "Duarte",
+        "team": "costa-rica"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Anthony",
+        "lastname": "Contreras",
+        "team": "costa-rica"
+    },
+    {
+        "number": "8",
+        "position": "defender",
+        "firstname": "Bryan",
+        "lastname": "Oviedo",
+        "team": "costa-rica"
+    },
+    {
+        "number": "9",
+        "position": "midfielder",
+        "firstname": "Jewison",
+        "lastname": "Bennette",
+        "team": "costa-rica"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Bryan",
+        "lastname": "Ruiz",
+        "team": "costa-rica"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Johan",
+        "lastname": "Venegas",
+        "team": "costa-rica"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Joel",
+        "lastname": "Campbell",
+        "team": "costa-rica"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Gerson",
+        "lastname": "Torres",
+        "team": "costa-rica"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Youstin",
+        "lastname": "Salas",
+        "team": "costa-rica"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Francisco",
+        "lastname": "Calvo",
+        "team": "costa-rica"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Carlos",
+        "lastname": "Martínez",
+        "team": "costa-rica"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Yeltsin",
+        "lastname": "Tejeda",
+        "team": "costa-rica"
+    },
+    {
+        "number": "18",
+        "position": "goalkeeper",
+        "firstname": "Esteban",
+        "lastname": "Alvarado",
+        "team": "costa-rica"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Kendall",
+        "lastname": "Waston",
+        "team": "costa-rica"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Brandon",
+        "lastname": "Aguilera",
+        "team": "costa-rica"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Douglas",
+        "lastname": "López",
+        "team": "costa-rica"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Rónald",
+        "lastname": "Matarrita",
+        "team": "costa-rica"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Patrick",
+        "lastname": "Sequeira",
+        "team": "costa-rica"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Roan",
+        "lastname": "Wilson",
+        "team": "costa-rica"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Anthony",
+        "lastname": "Hernández",
+        "team": "costa-rica"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Álvaro",
+        "lastname": "Zamora",
+        "team": "costa-rica"
+    }
+],
+"germany": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Manuel",
+        "lastname": "Neuer",
+        "team": "germany"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Antonio",
+        "lastname": "Rüdiger",
+        "team": "germany"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "David",
+        "lastname": "Raum",
+        "team": "germany"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Matthias",
+        "lastname": "Ginter",
+        "team": "germany"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Thilo",
+        "lastname": "Kehrer",
+        "team": "germany"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Joshua",
+        "lastname": "Kimmich",
+        "team": "germany"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Kai",
+        "lastname": "Havertz",
+        "team": "germany"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Leon",
+        "lastname": "Goretzka",
+        "team": "germany"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Niclas",
+        "lastname": "Füllkrug",
+        "team": "germany"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Serge",
+        "lastname": "Gnabry",
+        "team": "germany"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Mario",
+        "lastname": "Götze",
+        "team": "germany"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Kevin",
+        "lastname": "Trapp",
+        "team": "germany"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Thomas",
+        "lastname": "Müller",
+        "team": "germany"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Jamal",
+        "lastname": "Musiala",
+        "team": "germany"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Niklas",
+        "lastname": "Süle",
+        "team": "germany"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Lukas",
+        "lastname": "Klostermann",
+        "team": "germany"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Julian",
+        "lastname": "Brandt",
+        "team": "germany"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Jonas",
+        "lastname": "Hofmann",
+        "team": "germany"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Leroy",
+        "lastname": "Sané",
+        "team": "germany"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Christian",
+        "lastname": "Günter",
+        "team": "germany"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "İlkay",
+        "lastname": "Gündoğan",
+        "team": "germany"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Marc-André",
+        "lastname": "ter Stegen",
+        "team": "germany"
+    },
+    {
+        "number": "23",
+        "position": "defender",
+        "firstname": "Nico",
+        "lastname": "Schlotterbeck",
+        "team": "germany"
+    },
+    {
+        "number": "24",
+        "position": "forward",
+        "firstname": "Karim",
+        "lastname": "Adeyemi",
+        "team": "germany"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Armel",
+        "lastname": "Bella-Kotchap",
+        "team": "germany"
+    },
+    {
+        "number": "26",
+        "position": "forward",
+        "firstname": "Youssoufa",
+        "lastname": "Moukoko",
+        "team": "germany"
+    }
+],
+"japan": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Eiji",
+        "lastname": "Kawashima",
+        "team": "japan"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Miki",
+        "lastname": "Yamane",
+        "team": "japan"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Shogo",
+        "lastname": "Taniguchi",
+        "team": "japan"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Ko",
+        "lastname": "Itakura",
+        "team": "japan"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Yuto",
+        "lastname": "Nagatomo",
+        "team": "japan"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Wataru",
+        "lastname": "Endo",
+        "team": "japan"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Gaku",
+        "lastname": "Shibasaki",
+        "team": "japan"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Ritsu",
+        "lastname": "Dōan",
+        "team": "japan"
+    },
+    {
+        "number": "9",
+        "position": "midfielder",
+        "firstname": "Kaoru",
+        "lastname": "Mitoma",
+        "team": "japan"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Takumi",
+        "lastname": "Minamino",
+        "team": "japan"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Takefusa",
+        "lastname": "Kubo",
+        "team": "japan"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Shūichi",
+        "lastname": "Gonda",
+        "team": "japan"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Hidemasa",
+        "lastname": "Morita",
+        "team": "japan"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Junya",
+        "lastname": "Ito",
+        "team": "japan"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Daichi",
+        "lastname": "Kamada",
+        "team": "japan"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Takehiro",
+        "lastname": "Tomiyasu",
+        "team": "japan"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Ao",
+        "lastname": "Tanaka",
+        "team": "japan"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Takuma",
+        "lastname": "Asano",
+        "team": "japan"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Hiroki",
+        "lastname": "Sakai",
+        "team": "japan"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Shuto",
+        "lastname": "Machino",
+        "team": "japan"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Ayase",
+        "lastname": "Ueda",
+        "team": "japan"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Maya",
+        "lastname": "Yoshida",
+        "team": "japan"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Daniel",
+        "lastname": "Schmidt",
+        "team": "japan"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Yuki",
+        "lastname": "Soma",
+        "team": "japan"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Daizen",
+        "lastname": "Maeda",
+        "team": "japan"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Hiroki",
+        "lastname": "Ito",
+        "team": "japan"
+    }
+],
+"spain": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Robert",
+        "lastname": "Sánchez",
+        "team": "spain"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "César",
+        "lastname": "Azpilicueta",
+        "team": "spain"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Eric",
+        "lastname": "García",
+        "team": "spain"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Pau",
+        "lastname": "Torres",
+        "team": "spain"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Sergio",
+        "lastname": "Busquets",
+        "team": "spain"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Marcos",
+        "lastname": "Llorente",
+        "team": "spain"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Álvaro",
+        "lastname": "Morata",
+        "team": "spain"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Koke",
+        "lastname": "-",
+        "team": "spain"
+    },
+    {
+        "number": "9",
+        "position": "midfielder",
+        "firstname": "Gavi",
+        "lastname": "-",
+        "team": "spain"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Marco",
+        "lastname": "Asensio",
+        "team": "spain"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Ferran",
+        "lastname": "Torres",
+        "team": "spain"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Nico",
+        "lastname": "Williams",
+        "team": "spain"
+    },
+    {
+        "number": "13",
+        "position": "goalkeeper",
+        "firstname": "David",
+        "lastname": "Raya",
+        "team": "spain"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Alejandro",
+        "lastname": "Balde",
+        "team": "spain"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Hugo",
+        "lastname": "Guillamón",
+        "team": "spain"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Rodri",
+        "lastname": "-",
+        "team": "spain"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Yeremy",
+        "lastname": "Pino",
+        "team": "spain"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Jordi",
+        "lastname": "Alba",
+        "team": "spain"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Carlos",
+        "lastname": "Soler",
+        "team": "spain"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Dani",
+        "lastname": "Carvajal",
+        "team": "spain"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Dani",
+        "lastname": "Olmo",
+        "team": "spain"
+    },
+    {
+        "number": "22",
+        "position": "forward",
+        "firstname": "Pablo",
+        "lastname": "Sarabia",
+        "team": "spain"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Unai",
+        "lastname": "Simón",
+        "team": "spain"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Aymeric",
+        "lastname": "Laporte",
+        "team": "spain"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Ansu",
+        "lastname": "Fati",
+        "team": "spain"
+    }
+],
+"belgium": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Thibaut",
+        "lastname": "Courtois",
+        "team": "belgium"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Toby",
+        "lastname": "Alderweireld",
+        "team": "belgium"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Arthur",
+        "lastname": "Theate",
+        "team": "belgium"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Wout",
+        "lastname": "Faes",
+        "team": "belgium"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Jan",
+        "lastname": "Vertonghen",
+        "team": "belgium"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Axel",
+        "lastname": "Witsel",
+        "team": "belgium"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Kevin",
+        "lastname": "De Bruyne",
+        "team": "belgium"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Youri",
+        "lastname": "Tielemans",
+        "team": "belgium"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Romelu",
+        "lastname": "Lukaku",
+        "team": "belgium"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Eden",
+        "lastname": "Hazard",
+        "team": "belgium"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Yannick",
+        "lastname": "Carrasco",
+        "team": "belgium"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Simon",
+        "lastname": "Mignolet",
+        "team": "belgium"
+    },
+    {
+        "number": "13",
+        "position": "goalkeeper",
+        "firstname": "Koen",
+        "lastname": "Casteels",
+        "team": "belgium"
+    },
+    {
+        "number": "14",
+        "position": "forward",
+        "firstname": "Dries",
+        "lastname": "Mertens",
+        "team": "belgium"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Thomas",
+        "lastname": "Meunier",
+        "team": "belgium"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Thorgan",
+        "lastname": "Hazard",
+        "team": "belgium"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Leandro",
+        "lastname": "Trossard",
+        "team": "belgium"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Amadou",
+        "lastname": "Onana",
+        "team": "belgium"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Leander",
+        "lastname": "Dendoncker",
+        "team": "belgium"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Hans",
+        "lastname": "Vanaken",
+        "team": "belgium"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Timothy",
+        "lastname": "Castagne",
+        "team": "belgium"
+    },
+    {
+        "number": "22",
+        "position": "forward",
+        "firstname": "Charles",
+        "lastname": "De Ketelaere",
+        "team": "belgium"
+    },
+    {
+        "number": "23",
+        "position": "forward",
+        "firstname": "Michy",
+        "lastname": "Batshuayi",
+        "team": "belgium"
+    },
+    {
+        "number": "24",
+        "position": "forward",
+        "firstname": "Loïs",
+        "lastname": "Openda",
+        "team": "belgium"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Jérémy",
+        "lastname": "Doku",
+        "team": "belgium"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Zeno",
+        "lastname": "Debast",
+        "team": "belgium"
+    }
+],
+"canada": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Dayne",
+        "lastname": "St.Clair",
+        "team": "canada"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Alistair",
+        "lastname": "Johnston",
+        "team": "canada"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Sam",
+        "lastname": "Adekugbe",
+        "team": "canada"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Kamal",
+        "lastname": "Miller",
+        "team": "canada"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Steven",
+        "lastname": "Vitória",
+        "team": "canada"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Samuel",
+        "lastname": "Piette",
+        "team": "canada"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Stephen",
+        "lastname": "Eustáquio",
+        "team": "canada"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Liam",
+        "lastname": "Fraser",
+        "team": "canada"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Lucas",
+        "lastname": "Cavallini",
+        "team": "canada"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Junior",
+        "lastname": "Hoilett",
+        "team": "canada"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Tajon",
+        "lastname": "Buchanan",
+        "team": "canada"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Iké",
+        "lastname": "Ugbo",
+        "team": "canada"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Atiba",
+        "lastname": "Hutchinson",
+        "team": "canada"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Mark-Anthony",
+        "lastname": "Kaye",
+        "team": "canada"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Ismaël",
+        "lastname": "Koné",
+        "team": "canada"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "James",
+        "lastname": "Pantemis",
+        "team": "canada"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Cyle",
+        "lastname": "Larin",
+        "team": "canada"
+    },
+    {
+        "number": "18",
+        "position": "goalkeeper",
+        "firstname": "Milan",
+        "lastname": "Borjan",
+        "team": "canada"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Alphonso",
+        "lastname": "Davies",
+        "team": "canada"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Jonathan",
+        "lastname": "David",
+        "team": "canada"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Jonathan",
+        "lastname": "Osorio",
+        "team": "canada"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Richie",
+        "lastname": "Laryea",
+        "team": "canada"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Liam",
+        "lastname": "Millar",
+        "team": "canada"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "David",
+        "lastname": "Wotherspoon",
+        "team": "canada"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Derek",
+        "lastname": "Cornelius",
+        "team": "canada"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Joel",
+        "lastname": "Waterman",
+        "team": "canada"
+    }
+],
+"croatia": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Dominik",
+        "lastname": "Livaković",
+        "team": "croatia"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Josip",
+        "lastname": "Stanišić",
+        "team": "croatia"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Borna",
+        "lastname": "Barišić",
+        "team": "croatia"
+    },
+    {
+        "number": "4",
+        "position": "forward",
+        "firstname": "Ivan",
+        "lastname": "Perišić",
+        "team": "croatia"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Martin",
+        "lastname": "Erlić",
+        "team": "croatia"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Dejan",
+        "lastname": "Lovren",
+        "team": "croatia"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Lovro",
+        "lastname": "Majer",
+        "team": "croatia"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Mateo",
+        "lastname": "Kovačić",
+        "team": "croatia"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Andrej",
+        "lastname": "Kramarić",
+        "team": "croatia"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Luka",
+        "lastname": "Modrić",
+        "team": "croatia"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Marcelo",
+        "lastname": "Brozović",
+        "team": "croatia"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Ivo",
+        "lastname": "Grbić",
+        "team": "croatia"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Nikola",
+        "lastname": "Vlašić",
+        "team": "croatia"
+    },
+    {
+        "number": "14",
+        "position": "forward",
+        "firstname": "Marko",
+        "lastname": "Livaja",
+        "team": "croatia"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Mario",
+        "lastname": "Pašalić",
+        "team": "croatia"
+    },
+    {
+        "number": "16",
+        "position": "forward",
+        "firstname": "Bruno",
+        "lastname": "Petković",
+        "team": "croatia"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Ante",
+        "lastname": "Budimir",
+        "team": "croatia"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Mislav",
+        "lastname": "Oršić",
+        "team": "croatia"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Borna",
+        "lastname": "Sosa",
+        "team": "croatia"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Joško",
+        "lastname": "Gvardiol",
+        "team": "croatia"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Domagoj",
+        "lastname": "Vida",
+        "team": "croatia"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Josip",
+        "lastname": "Juranović",
+        "team": "croatia"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Ivica",
+        "lastname": "Ivušić",
+        "team": "croatia"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Josip",
+        "lastname": "Šutalo",
+        "team": "croatia"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Luka",
+        "lastname": "Sučić",
+        "team": "croatia"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Kristijan",
+        "lastname": "Jakić",
+        "team": "croatia"
+    }
+],
+"morocco": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Yassine",
+        "lastname": "Bounou",
+        "team": "morocco"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Achraf",
+        "lastname": "Hakimi",
+        "team": "morocco"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Noussair",
+        "lastname": "Mazraoui",
+        "team": "morocco"
+    },
+    {
+        "number": "4",
+        "position": "midfielder",
+        "firstname": "Sofyan",
+        "lastname": "Amrabat",
+        "team": "morocco"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Nayef",
+        "lastname": "Aguerd",
+        "team": "morocco"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Romain",
+        "lastname": "Saïss",
+        "team": "morocco"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Hakim",
+        "lastname": "Ziyech",
+        "team": "morocco"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Azzedine",
+        "lastname": "Ounahi",
+        "team": "morocco"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Abderrazak",
+        "lastname": "Hamdallah",
+        "team": "morocco"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Anass",
+        "lastname": "Zaroury",
+        "team": "morocco"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Abdelhamid",
+        "lastname": "Sabiri",
+        "team": "morocco"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Munir",
+        "lastname": "Mohamedi",
+        "team": "morocco"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Ilias",
+        "lastname": "Chair",
+        "team": "morocco"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Zakaria",
+        "lastname": "Aboukhlal",
+        "team": "morocco"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Selim",
+        "lastname": "Amallah",
+        "team": "morocco"
+    },
+    {
+        "number": "16",
+        "position": "forward",
+        "firstname": "Abde",
+        "lastname": "Ezzalzouli",
+        "team": "morocco"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Sofiane",
+        "lastname": "Boufal",
+        "team": "morocco"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Jawad",
+        "lastname": "El Yamiq",
+        "team": "morocco"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Youssef",
+        "lastname": "En-Nesyri",
+        "team": "morocco"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Achraf",
+        "lastname": "Dari",
+        "team": "morocco"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Walid",
+        "lastname": "Cheddira",
+        "team": "morocco"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Ahmed",
+        "lastname": "Reda Tagnaouti",
+        "team": "morocco"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Bilal",
+        "lastname": "El Khannous",
+        "team": "morocco"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Badr",
+        "lastname": "Benoun",
+        "team": "morocco"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Yahia",
+        "lastname": "Attiyat-Allah",
+        "team": "morocco"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Yahya",
+        "lastname": "Jabrane",
+        "team": "morocco"
+    }
+],
+"brazil": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Alisson",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Danilo",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Thiago",
+        "lastname": "Silva",
+        "team": "brazil"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Marquinhos",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Casemiro",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "6",
+        "position": "defender",
+        "firstname": "Alex",
+        "lastname": "Sandro",
+        "team": "brazil"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Lucas",
+        "lastname": "Paquetá",
+        "team": "brazil"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Fred",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Richarlison",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Neymar",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Raphinha",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Weverton",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Dani",
+        "lastname": "Alves",
+        "team": "brazil"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Éder",
+        "lastname": "Militão",
+        "team": "brazil"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Fabinho",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Alex",
+        "lastname": "Telles",
+        "team": "brazil"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Bruno",
+        "lastname": "Guimarães",
+        "team": "brazil"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Gabriel",
+        "lastname": "Jesus",
+        "team": "brazil"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Antony",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Vinícius",
+        "lastname": "Júnior",
+        "team": "brazil"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Rodrygo",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Éverton",
+        "lastname": "Ribeiro",
+        "team": "brazil"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Ederson",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Bremer",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Pedro",
+        "lastname": "-",
+        "team": "brazil"
+    },
+    {
+        "number": "26",
+        "position": "forward",
+        "firstname": "Gabriel",
+        "lastname": "Martinelli",
+        "team": "brazil"
+    }
+],
+"cameroon": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Simon",
+        "lastname": "Ngapandouetnbu",
+        "team": "cameroon"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Jerome",
+        "lastname": "Ngom Mbekeli",
+        "team": "cameroon"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Nicolas",
+        "lastname": "Nkoulou",
+        "team": "cameroon"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Christopher",
+        "lastname": "Wooh",
+        "team": "cameroon"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Gaël",
+        "lastname": "Ondoua",
+        "team": "cameroon"
+    },
+    {
+        "number": "6",
+        "position": "forward",
+        "firstname": "Moumi",
+        "lastname": "Ngamaleu",
+        "team": "cameroon"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Georges-Kévin",
+        "lastname": "Nkoudou",
+        "team": "cameroon"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "André-Frank",
+        "lastname": "Zambo Anguissa",
+        "team": "cameroon"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Jean-Pierre",
+        "lastname": "Nsame",
+        "team": "cameroon"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Vincent",
+        "lastname": "Aboubakar",
+        "team": "cameroon"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Christian",
+        "lastname": "Bassogog",
+        "team": "cameroon"
+    },
+    {
+        "number": "12",
+        "position": "forward",
+        "firstname": "Karl",
+        "lastname": "Toko Ekambi",
+        "team": "cameroon"
+    },
+    {
+        "number": "13",
+        "position": "forward",
+        "firstname": "Eric",
+        "lastname": "Choupo-Moting",
+        "team": "cameroon"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Samuel",
+        "lastname": "Gouet",
+        "team": "cameroon"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Pierre",
+        "lastname": "Kunde",
+        "team": "cameroon"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Devis",
+        "lastname": "Epassy",
+        "team": "cameroon"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Olivier",
+        "lastname": "Mbaizo",
+        "team": "cameroon"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Martin",
+        "lastname": "Hongla",
+        "team": "cameroon"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Collins",
+        "lastname": "Fai",
+        "team": "cameroon"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Bryan",
+        "lastname": "Mbeumo",
+        "team": "cameroon"
+    },
+    {
+        "number": "21",
+        "position": "defender",
+        "firstname": "Jean-Charles",
+        "lastname": "Castelletto",
+        "team": "cameroon"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Olivier",
+        "lastname": "Ntcham",
+        "team": "cameroon"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "André",
+        "lastname": "Onana",
+        "team": "cameroon"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Enzo",
+        "lastname": "Ebosse",
+        "team": "cameroon"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Nouhou",
+        "lastname": "Tolo",
+        "team": "cameroon"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Souaibou",
+        "lastname": "Marou",
+        "team": "cameroon"
+    }
+],
+"serbia": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Marko",
+        "lastname": "Dmitrović",
+        "team": "serbia"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Strahinja",
+        "lastname": "Pavlović",
+        "team": "serbia"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Strahinja",
+        "lastname": "Eraković",
+        "team": "serbia"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Nikola",
+        "lastname": "Milenković",
+        "team": "serbia"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Miloš",
+        "lastname": "Veljković",
+        "team": "serbia"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Nemanja",
+        "lastname": "Maksimović",
+        "team": "serbia"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Nemanja",
+        "lastname": "Radonjić",
+        "team": "serbia"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Nemanja",
+        "lastname": "Gudelj",
+        "team": "serbia"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Aleksandar",
+        "lastname": "Mitrović",
+        "team": "serbia"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Dušan",
+        "lastname": "Tadić",
+        "team": "serbia"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Luka",
+        "lastname": "Jović",
+        "team": "serbia"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Predrag",
+        "lastname": "Rajković",
+        "team": "serbia"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Stefan",
+        "lastname": "Mitrović",
+        "team": "serbia"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Andrija",
+        "lastname": "Živković",
+        "team": "serbia"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Srđan",
+        "lastname": "Babić",
+        "team": "serbia"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Saša",
+        "lastname": "Lukić",
+        "team": "serbia"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Filip",
+        "lastname": "Kostić",
+        "team": "serbia"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Dušan",
+        "lastname": "Vlahović",
+        "team": "serbia"
+    },
+    {
+        "number": "19",
+        "position": "midfielder",
+        "firstname": "Uroš",
+        "lastname": "Račić",
+        "team": "serbia"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Sergej",
+        "lastname": "Milinković-Savić",
+        "team": "serbia"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Filip",
+        "lastname": "Đuričić",
+        "team": "serbia"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Darko",
+        "lastname": "Lazović",
+        "team": "serbia"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Vanja",
+        "lastname": "Milinković-Savić",
+        "team": "serbia"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Ivan",
+        "lastname": "Ilić",
+        "team": "serbia"
+    },
+    {
+        "number": "25",
+        "position": "defender",
+        "firstname": "Filip",
+        "lastname": "Mladenović",
+        "team": "serbia"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Marko",
+        "lastname": "Grujić",
+        "team": "serbia"
+    }
+],
+"switzerland": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Yann",
+        "lastname": "Sommer",
+        "team": "switzerland"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Edimilson",
+        "lastname": "Fernandes",
+        "team": "switzerland"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Silvan",
+        "lastname": "Widmer",
+        "team": "switzerland"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Nico",
+        "lastname": "Elvedi",
+        "team": "switzerland"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Manuel",
+        "lastname": "Akanji",
+        "team": "switzerland"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Denis",
+        "lastname": "Zakaria",
+        "team": "switzerland"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Breel",
+        "lastname": "Embolo",
+        "team": "switzerland"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Remo",
+        "lastname": "Freuler",
+        "team": "switzerland"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Haris",
+        "lastname": "Seferovic",
+        "team": "switzerland"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Granit",
+        "lastname": "Xhaka",
+        "team": "switzerland"
+    },
+    {
+        "number": "11",
+        "position": "defender",
+        "firstname": "Renato",
+        "lastname": "Steffen",
+        "team": "switzerland"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Jonas",
+        "lastname": "Omlin",
+        "team": "switzerland"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Ricardo",
+        "lastname": "Rodriguez",
+        "team": "switzerland"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Michel",
+        "lastname": "Aebischer",
+        "team": "switzerland"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Djibril",
+        "lastname": "Sow",
+        "team": "switzerland"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Christian",
+        "lastname": "Fassnacht",
+        "team": "switzerland"
+    },
+    {
+        "number": "17",
+        "position": "forward",
+        "firstname": "Ruben",
+        "lastname": "Vargas",
+        "team": "switzerland"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Eray",
+        "lastname": "Cömert",
+        "team": "switzerland"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Noah",
+        "lastname": "Okafor",
+        "team": "switzerland"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Fabian",
+        "lastname": "Frei",
+        "team": "switzerland"
+    },
+    {
+        "number": "21",
+        "position": "goalkeeper",
+        "firstname": "Gregor",
+        "lastname": "Kobel",
+        "team": "switzerland"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Fabian",
+        "lastname": "Schär",
+        "team": "switzerland"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Xherdan",
+        "lastname": "Shaqiri",
+        "team": "switzerland"
+    },
+    {
+        "number": "24",
+        "position": "goalkeeper",
+        "firstname": "Philipp",
+        "lastname": "Köhn",
+        "team": "switzerland"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Fabian",
+        "lastname": "Rieder",
+        "team": "switzerland"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Ardon",
+        "lastname": "Jashari",
+        "team": "switzerland"
+    }
+],
+"ghana": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Lawrence",
+        "lastname": "Ati-Zigi",
+        "team": "ghana"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Tariq",
+        "lastname": "Lamptey",
+        "team": "ghana"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Denis",
+        "lastname": "Odoi",
+        "team": "ghana"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Mohammed",
+        "lastname": "Salisu",
+        "team": "ghana"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Thomas",
+        "lastname": "Partey",
+        "team": "ghana"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Elisha",
+        "lastname": "Owusu",
+        "team": "ghana"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Abdul",
+        "lastname": "Fatawu Issahaku",
+        "team": "ghana"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Daniel-Kofi",
+        "lastname": "Kyereh",
+        "team": "ghana"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Jordan",
+        "lastname": "Ayew",
+        "team": "ghana"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "André",
+        "lastname": "Ayew",
+        "team": "ghana"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Osman",
+        "lastname": "Bukari",
+        "team": "ghana"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Ibrahim",
+        "lastname": "Danlad",
+        "team": "ghana"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Daniel",
+        "lastname": "Afriyie",
+        "team": "ghana"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Gideon",
+        "lastname": "Mensah",
+        "team": "ghana"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Joseph",
+        "lastname": "Aidoo",
+        "team": "ghana"
+    },
+    {
+        "number": "16",
+        "position": "goalkeeper",
+        "firstname": "Abdul",
+        "lastname": "Manaf Nurudeen",
+        "team": "ghana"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Baba",
+        "lastname": "Rahman",
+        "team": "ghana"
+    },
+    {
+        "number": "18",
+        "position": "defender",
+        "firstname": "Daniel",
+        "lastname": "Amartey",
+        "team": "ghana"
+    },
+    {
+        "number": "19",
+        "position": "forward",
+        "firstname": "Iñaki",
+        "lastname": "Williams",
+        "team": "ghana"
+    },
+    {
+        "number": "20",
+        "position": "midfielder",
+        "firstname": "Mohammed",
+        "lastname": "Kudus",
+        "team": "ghana"
+    },
+    {
+        "number": "21",
+        "position": "midfielder",
+        "firstname": "Salis",
+        "lastname": "Abdul Samed",
+        "team": "ghana"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Kamaldeen",
+        "lastname": "Sulemana",
+        "team": "ghana"
+    },
+    {
+        "number": "23",
+        "position": "defender",
+        "firstname": "Alexander",
+        "lastname": "Djiku",
+        "team": "ghana"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Kamal",
+        "lastname": "Sowah",
+        "team": "ghana"
+    },
+    {
+        "number": "25",
+        "position": "forward",
+        "firstname": "Antoine",
+        "lastname": "Semenyo",
+        "team": "ghana"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "Alidu",
+        "lastname": "Seidu",
+        "team": "ghana"
+    }
+],
+"portugal": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Rui",
+        "lastname": "Patrício",
+        "team": "portugal"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Diogo",
+        "lastname": "Dalot",
+        "team": "portugal"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Pepe",
+        "lastname": "-",
+        "team": "portugal"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Rúben",
+        "lastname": "Dias",
+        "team": "portugal"
+    },
+    {
+        "number": "5",
+        "position": "defender",
+        "firstname": "Raphaël",
+        "lastname": "Guerreiro",
+        "team": "portugal"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "João",
+        "lastname": "Palhinha",
+        "team": "portugal"
+    },
+    {
+        "number": "7",
+        "position": "forward",
+        "firstname": "Cristiano",
+        "lastname": "Ronaldo",
+        "team": "portugal"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Bruno",
+        "lastname": "Fernandes",
+        "team": "portugal"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "André",
+        "lastname": "Silva",
+        "team": "portugal"
+    },
+    {
+        "number": "10",
+        "position": "forward",
+        "firstname": "Bernardo",
+        "lastname": "Silva",
+        "team": "portugal"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "João",
+        "lastname": "Félix",
+        "team": "portugal"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "José",
+        "lastname": "Sá",
+        "team": "portugal"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Danilo",
+        "lastname": "Pereira",
+        "team": "portugal"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "William",
+        "lastname": "Carvalho",
+        "team": "portugal"
+    },
+    {
+        "number": "15",
+        "position": "forward",
+        "firstname": "Rafael",
+        "lastname": "Leão",
+        "team": "portugal"
+    },
+    {
+        "number": "16",
+        "position": "midfielder",
+        "firstname": "Vitinha",
+        "lastname": "-",
+        "team": "portugal"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "João",
+        "lastname": "Mário",
+        "team": "portugal"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Rúben",
+        "lastname": "Neves",
+        "team": "portugal"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Nuno",
+        "lastname": "Mendes",
+        "team": "portugal"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "João",
+        "lastname": "Cancelo",
+        "team": "portugal"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Ricardo",
+        "lastname": "Horta",
+        "team": "portugal"
+    },
+    {
+        "number": "22",
+        "position": "goalkeeper",
+        "firstname": "Diogo",
+        "lastname": "Costa",
+        "team": "portugal"
+    },
+    {
+        "number": "23",
+        "position": "midfielder",
+        "firstname": "Matheus",
+        "lastname": "Nunes",
+        "team": "portugal"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "António",
+        "lastname": "Silva",
+        "team": "portugal"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Otávio",
+        "lastname": "-",
+        "team": "portugal"
+    },
+    {
+        "number": "26",
+        "position": "forward",
+        "firstname": "Gonçalo",
+        "lastname": "Ramos",
+        "team": "portugal"
+    }
+],
+"korea-republic": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Kim",
+        "lastname": "Seung-gyu",
+        "team": "korea-republic"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "Yoon",
+        "lastname": "Jong-gyu",
+        "team": "korea-republic"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Kim",
+        "lastname": "Jin-su",
+        "team": "korea-republic"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Kim",
+        "lastname": "Min-jae",
+        "team": "korea-republic"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Jung",
+        "lastname": "Woo-young",
+        "team": "korea-republic"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Hwang",
+        "lastname": "In-beom",
+        "team": "korea-republic"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Son",
+        "lastname": "Heung-min",
+        "team": "korea-republic"
+    },
+    {
+        "number": "8",
+        "position": "midfielder",
+        "firstname": "Paik",
+        "lastname": "Seung-ho",
+        "team": "korea-republic"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Cho",
+        "lastname": "Gue-sung",
+        "team": "korea-republic"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Lee",
+        "lastname": "Jae-sung",
+        "team": "korea-republic"
+    },
+    {
+        "number": "11",
+        "position": "midfielder",
+        "firstname": "Hwang",
+        "lastname": "Hee-chan",
+        "team": "korea-republic"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Song",
+        "lastname": "Bum-keun",
+        "team": "korea-republic"
+    },
+    {
+        "number": "13",
+        "position": "midfielder",
+        "firstname": "Son",
+        "lastname": "Jun-ho",
+        "team": "korea-republic"
+    },
+    {
+        "number": "14",
+        "position": "defender",
+        "firstname": "Hong",
+        "lastname": "Chul",
+        "team": "korea-republic"
+    },
+    {
+        "number": "15",
+        "position": "defender",
+        "firstname": "Kim",
+        "lastname": "Moon-hwan",
+        "team": "korea-republic"
+    },
+    {
+        "number": "16",
+        "position": "forward",
+        "firstname": "Hwang",
+        "lastname": "Ui-jo",
+        "team": "korea-republic"
+    },
+    {
+        "number": "17",
+        "position": "midfielder",
+        "firstname": "Na",
+        "lastname": "Sang-ho",
+        "team": "korea-republic"
+    },
+    {
+        "number": "18",
+        "position": "midfielder",
+        "firstname": "Lee",
+        "lastname": "Kang-in",
+        "team": "korea-republic"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Kim",
+        "lastname": "Young-gwon",
+        "team": "korea-republic"
+    },
+    {
+        "number": "20",
+        "position": "defender",
+        "firstname": "Kwon",
+        "lastname": "Kyung-won",
+        "team": "korea-republic"
+    },
+    {
+        "number": "21",
+        "position": "goalkeeper",
+        "firstname": "Jo",
+        "lastname": "Hyeon-woo",
+        "team": "korea-republic"
+    },
+    {
+        "number": "22",
+        "position": "midfielder",
+        "firstname": "Kwon",
+        "lastname": "Chang-hoon",
+        "team": "korea-republic"
+    },
+    {
+        "number": "23",
+        "position": "defender",
+        "firstname": "Kim",
+        "lastname": "Tae-hwan",
+        "team": "korea-republic"
+    },
+    {
+        "number": "24",
+        "position": "defender",
+        "firstname": "Cho",
+        "lastname": "Yu-min",
+        "team": "korea-republic"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Jeong",
+        "lastname": "Woo-yeong",
+        "team": "korea-republic"
+    },
+    {
+        "number": "26",
+        "position": "midfielder",
+        "firstname": "Song",
+        "lastname": "Min-kyu",
+        "team": "korea-republic"
+    }
+],
+"uruguay": [
+    {
+        "number": "1",
+        "position": "goalkeeper",
+        "firstname": "Fernando",
+        "lastname": "Muslera",
+        "team": "uruguay"
+    },
+    {
+        "number": "2",
+        "position": "defender",
+        "firstname": "José",
+        "lastname": "Giménez",
+        "team": "uruguay"
+    },
+    {
+        "number": "3",
+        "position": "defender",
+        "firstname": "Diego",
+        "lastname": "Godín",
+        "team": "uruguay"
+    },
+    {
+        "number": "4",
+        "position": "defender",
+        "firstname": "Ronald",
+        "lastname": "Araújo",
+        "team": "uruguay"
+    },
+    {
+        "number": "5",
+        "position": "midfielder",
+        "firstname": "Matías",
+        "lastname": "Vecino",
+        "team": "uruguay"
+    },
+    {
+        "number": "6",
+        "position": "midfielder",
+        "firstname": "Rodrigo",
+        "lastname": "Bentancur",
+        "team": "uruguay"
+    },
+    {
+        "number": "7",
+        "position": "midfielder",
+        "firstname": "Nicolás",
+        "lastname": "de la Cruz",
+        "team": "uruguay"
+    },
+    {
+        "number": "8",
+        "position": "forward",
+        "firstname": "Facundo",
+        "lastname": "Pellistri",
+        "team": "uruguay"
+    },
+    {
+        "number": "9",
+        "position": "forward",
+        "firstname": "Luis",
+        "lastname": "Suárez",
+        "team": "uruguay"
+    },
+    {
+        "number": "10",
+        "position": "midfielder",
+        "firstname": "Giorgian",
+        "lastname": "de Arrascaeta",
+        "team": "uruguay"
+    },
+    {
+        "number": "11",
+        "position": "forward",
+        "firstname": "Darwin",
+        "lastname": "Núñez",
+        "team": "uruguay"
+    },
+    {
+        "number": "12",
+        "position": "goalkeeper",
+        "firstname": "Sebastián",
+        "lastname": "Sosa",
+        "team": "uruguay"
+    },
+    {
+        "number": "13",
+        "position": "defender",
+        "firstname": "Guillermo",
+        "lastname": "Varela",
+        "team": "uruguay"
+    },
+    {
+        "number": "14",
+        "position": "midfielder",
+        "firstname": "Lucas",
+        "lastname": "Torreira",
+        "team": "uruguay"
+    },
+    {
+        "number": "15",
+        "position": "midfielder",
+        "firstname": "Federico",
+        "lastname": "Valverde",
+        "team": "uruguay"
+    },
+    {
+        "number": "16",
+        "position": "defender",
+        "firstname": "Mathías",
+        "lastname": "Olivera",
+        "team": "uruguay"
+    },
+    {
+        "number": "17",
+        "position": "defender",
+        "firstname": "Matías",
+        "lastname": "Viña",
+        "team": "uruguay"
+    },
+    {
+        "number": "18",
+        "position": "forward",
+        "firstname": "Maxi",
+        "lastname": "Gómez",
+        "team": "uruguay"
+    },
+    {
+        "number": "19",
+        "position": "defender",
+        "firstname": "Sebastián",
+        "lastname": "Coates",
+        "team": "uruguay"
+    },
+    {
+        "number": "20",
+        "position": "forward",
+        "firstname": "Facundo",
+        "lastname": "Torres",
+        "team": "uruguay"
+    },
+    {
+        "number": "21",
+        "position": "forward",
+        "firstname": "Edinson",
+        "lastname": "Cavani",
+        "team": "uruguay"
+    },
+    {
+        "number": "22",
+        "position": "defender",
+        "firstname": "Martín",
+        "lastname": "Cáceres",
+        "team": "uruguay"
+    },
+    {
+        "number": "23",
+        "position": "goalkeeper",
+        "firstname": "Sergio",
+        "lastname": "Rochet",
+        "team": "uruguay"
+    },
+    {
+        "number": "24",
+        "position": "midfielder",
+        "firstname": "Agustín",
+        "lastname": "Canobbio",
+        "team": "uruguay"
+    },
+    {
+        "number": "25",
+        "position": "midfielder",
+        "firstname": "Manuel",
+        "lastname": "Ugarte",
+        "team": "uruguay"
+    },
+    {
+        "number": "26",
+        "position": "defender",
+        "firstname": "José",
+        "lastname": "Luis Rodríguez",
+        "team": "uruguay"
+    }
+]
+}

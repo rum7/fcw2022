@@ -1,0 +1,78 @@
+.group table {
+    border-collapse: collapse;
+
+    thead tr > th:first-child {
+        text-align: left;            
+    }
+
+    tbody {
+        color: black;
+        border-top: 1px #247ba0 dotted;
+    }
+    tbody:nth-child(2),
+    tbody:nth-child(3) {
+        background: rgb(246,238,213);
+        background: linear-gradient(90deg,
+        rgba(246,238,213,0) 0%,
+        rgba(246,238,213,1) 20%,
+        rgba(246,238,213,1) 40%,
+        rgba(246,238,213,0) 100%);
+        color: #247ba0;
+        a {
+            color: #247ba0;
+        }
+    }
+    
+    tbody tr > td:first-child,
+    tbody tr > td:nth-child(3),
+    tbody tr > td:last-child {
+        font-weight: bold;
+    }
+    
+    th, td {
+        padding: .5rem;
+    }
+
+    td a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: .5rem;
+        padding: 0 0.15rem 0.15rem 0.15rem;
+        font-size: 1rem;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #000;
+
+        h4 {
+            margin: 0;
+            padding: 0.15rem 0.2rem;
+            border-radius: .25rem;
+            transition: all .25s ease-out;
+        }
+
+        &:hover h4{
+            background-color: #247ba0;
+            color: #fff;
+        }
+    }
+
+    img {
+        width: 30px;
+        vertical-align: middle;
+        border-radius: .25rem;
+        box-shadow: 
+            0px 0.7px 2.2px rgba(0, 0, 0, 0.02), 
+            0px 1.7px 5.3px rgba(0, 0, 0, 0.028), 
+            0px 3.1px 10px rgba(0, 0, 0, 0.035), 
+            0px 5.6px 17.9px rgba(0, 0, 0, 0.042), 
+            0px 10.4px 33.4px rgba(0, 0, 0, 0.05), 
+            0px 25px 80px rgba(0, 0, 0, 0.07);
+    }
+}
+
+.groupAll {
+    table th, td {
+        padding: .5rem;
+    }
+}

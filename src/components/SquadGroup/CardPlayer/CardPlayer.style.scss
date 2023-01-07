@@ -1,0 +1,49 @@
+.cardPlayer {
+    width: 130px;
+    padding: 0px;
+    font-size: 1rem;
+
+    &__heading {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+
+        height: 100px;
+        padding: .3rem 0;
+        background-color: #f1f2ed;
+        clip-path: path("M0,112V14.25C0,9.19,3,5,6.84,4.59L39.57,1.28a252.76,252.76,0,0,1,50.86,0l32.73,3.31C127,5,130,9.19,130,14.25V112Z");
+        
+        h4 {
+            margin: 0;
+            font-size: .8rem;
+            font-weight: normal;
+            text-transform: capitalize;
+        }
+        h4:nth-child(2) {
+            margin: 0;
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        p {
+            margin: 0;
+            font-size: 1.75rem;    
+        }
+    }
+
+    &__content {
+        height: 40px;
+        background-color: #161616;
+        clip-path: path("M130,0V9.88c0,4.47-2.34,8.37-5.67,9.42L65,38,5.67,19.3C2.34,18.25,0,14.35,0,9.88V0Z");
+        p {
+            margin: 0;
+            padding: 0.3rem 0 0;
+            font-size: .7rem;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: white;
+        }
+    }
+}
