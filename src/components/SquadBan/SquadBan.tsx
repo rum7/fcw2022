@@ -26,7 +26,7 @@ const SquadBan = () => {
             {squadData.map((sqdata, index) => (
             <div key={index} className="squadban_data">
                 <img 
-                    src={process.env.PUBLIC_URL + '/assets/flags/'+ sqdata.acro +'.webp'} 
+                    src={process.env.PUBLIC_URL + '/assets/flags/'+ sqdata.acro.toUpperCase() +'.webp'} 
                     alt={`${sqdata.name} flag`}
                     className={teamInOut}
                 />

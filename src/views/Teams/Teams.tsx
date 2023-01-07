@@ -23,7 +23,7 @@ const Teams = () => {
           className={hiding}
         >
           <img 
-            src={'./assets/flags/'+ team.acro +'.webp'}
+            src={'/assets/flags/'+ team.acro.toUpperCase() +'.webp'}
             alt={`${team.name} flag`} 
             onLoad={() => setLoaded(!isLoaded)} 
           />

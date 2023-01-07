@@ -23,7 +23,7 @@ const GroupResults = (props: {title: string, content: GroupData[]}) => {
                         <td>
                             <Link to={`/teams/${group.team.replace(" ", "-")}`}>
                                 <img 
-                                    src={process.env.PUBLIC_URL + '/assets/flags/'+ group.acro +'.webp'} 
+                                    src={process.env.PUBLIC_URL + '/assets/flags/'+ group.acro.toUpperCase() +'.webp'} 
                                     alt="flag" 
                                 />
                             </Link>

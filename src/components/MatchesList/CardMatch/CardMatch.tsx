@@ -12,7 +12,7 @@ const CardMatch = (props: MatchesData) => {
             <div className='cardMatch__content'>
                 <Link to={`/teams/${props.teamA.replace(" ", "-")}`}>
                     <img 
-                    src={process.env.PUBLIC_URL + '/assets/flags/'+ props.acroA +'.webp'} 
+                    src={process.env.PUBLIC_URL + '/assets/flags/'+ props.acroA?.toUpperCase() +'.webp'} 
                     alt="flag a" 
                     />
                     <h4>{props.acroA}</h4>
@@ -23,7 +23,7 @@ const CardMatch = (props: MatchesData) => {
                 </div>
                 <Link to={`/teams/${props.teamB.replace(" ", "-")}`}>
                     <img 
-                        src={process.env.PUBLIC_URL + '/assets/flags/'+ props.acroB +'.webp'}
+                        src={process.env.PUBLIC_URL + '/assets/flags/'+ props.acroB?.toUpperCase() +'.webp'}
                         alt="flag b" 
                     />
                     <h4>{props.acroB}</h4>
